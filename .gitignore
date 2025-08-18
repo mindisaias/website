@@ -1,5 +1,5 @@
 # Images folder - exclude all image files
-images/
+# images/
 
 # OS generated files
 .DS_Store
