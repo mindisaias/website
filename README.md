@@ -1,48 +1,48 @@
 # Personal Portfolio
 
-A clean, responsive portfolio website built with HTML, CSS, and JavaScript.
+My personal portfolio website showcasing my projects, skills, and experience. Built with HTML, CSS, and JavaScript.
+
+## About
+
+This is my personal portfolio where I display my work, skills, and professional background. The site features a clean, responsive design with smooth animations and interactive elements.
 
 ## Features
 
 - Responsive design that works on all devices
 - Smooth animations and transitions
-- Contact form with validation
+- Contact form for professional inquiries
 - Mobile-friendly navigation
-- SEO optimized
+- SEO optimized for better visibility
 
-## Getting Started
+## Structure
 
-1. Clone or download this repository
-2. Open `index.html` in your browser
-3. Customize the content to match your information
+The website includes several key sections:
+- **Hero Section**: Introduction and call-to-action
+- **About**: Personal background and experience
+- **Skills**: Technical skills and expertise
+- **Projects**: Portfolio of work samples
+- **Contact**: Professional contact information and form
 
-## Customization
+## Technologies Used
 
-### Personal Information
-Update your details in `index.html`:
-- Name and title
-- About section
-- Contact information
-- Social media links
-- Projects and skills
+- HTML5 for semantic structure
+- CSS3 for styling and animations
+- JavaScript for interactivity
+- Font Awesome for icons
+- Google Fonts for typography
 
-### Styling
-Modify `styles.css` to change:
-- Colors and theme
-- Typography
-- Layout spacing
+## View Live
 
-### Images
-Replace placeholder icons with your actual photos and project screenshots.
+- Live website located at: https://winv.dev/
 
-## Deployment
 
-The site can be deployed to any static hosting service:
-- GitHub Pages
-- Netlify
-- Vercel
-- Traditional web hosting
 
-## License
 
-MIT License - feel free to use this template for your own portfolio.
+
+## Contact
+
+Feel free to reach out through the contact form on the site or connect with me on social media.
+
+---
+
+*This portfolio is open source and available under the MIT License.*
